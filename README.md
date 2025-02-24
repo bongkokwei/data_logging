@@ -1,6 +1,6 @@
 # DAQ Control GUI
 
-A Python-based graphical user interface for controlling National Instruments Data Acquisition (NI-DAQ) devices. This application provides real-time data visualization and waveform generation capabilities.
+A Python-based graphical user interface for controlling National Instruments Data Acquisition (NI-DAQ) devices. This application provides real-time data visualisation and waveform generation capabilities.
 
 ## Features
 
@@ -18,7 +18,7 @@ A Python-based graphical user interface for controlling National Instruments Dat
 - **User Interface**
   - Intuitive channel management
   - Parameter display for active channels
-  - Real-time data visualization
+  - Real-time data visualisation
   - Separate threads for acquisition and generation
 
 ## Prerequisites
